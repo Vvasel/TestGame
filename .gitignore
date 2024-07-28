@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+TestGame/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+TestGame/Saved/Logs/TestGame.log
+TestGame/Saved/Telemetry/Telemetry.json
